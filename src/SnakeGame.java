@@ -6,3 +6,12 @@ public class SnakeGame {
         new GameFrame();
     }
 }
+
+
+// Background
+// Display PausedGame
+// change Symbols to Montessori symbols
+// add vocabulary library
+// add word display in game
+// add wrong and right symbols eaten
+// adjust score
